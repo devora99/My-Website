@@ -1,0 +1,150 @@
+
+
+
+.body{
+    background-color: rgb(212, 212, 212);
+}
+
+
+
+
+.border{
+    border-style: groove;
+    height: 750px;
+    width: 970px;
+    margin: auto;
+    background-color: rgb(222, 222, 222);
+    text-align: center;
+    border-bottom: white;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+    overflow: scroll;
+    
+}
+
+
+
+
+
+.h1{
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    height: 130px;
+}
+
+
+
+
+.header{
+    background-image: url(blue.png);
+    
+}
+
+
+
+.p{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+
+
+.image{
+    text-align: left;
+    float: left;
+}
+
+
+.p2{
+    text-align: left;
+    font-size: 23px;
+    text-align: center;
+
+}
+
+
+
+.box{
+    border-style: groove;
+    width: 965px;
+    height: 150px;
+    background-color: rgb(255, 255, 255);
+    border-bottom: white; 
+    border-left: white; 
+    border-right: white; 
+    border-top: white; 
+}
+
+
+
+
+.border2{
+    border-style: groove;
+    height:250px;
+    width: 270px;
+    background-color: white;
+    margin: auto;
+    border-bottom: white;
+    border-left: white;
+    border-right: white;
+    border-top: white;
+}
+
+
+
+.samelayer{
+    display: flex;
+    column-gap: 20px;
+    
+    
+}
+
+
+
+
+.center{
+    margin: auto;
+}
+
+
+
+.hiddin{
+    color: rgb(255, 255, 255);
+    
+}
+
+
+
+
+.ptext{
+    font-size: 20px;
+}
+
+
+.htext{
+    font-size: 25px;
+}
+
+
+
+.email{
+    font-size: 20px;
+    color: rgb(10, 101, 205);
+}
+
+
+
+.button2{
+   width: 200px;
+   height: 40px;
+   font-size: 23px;
+   background-image: url(lightblue.png);
+   border-bottom: 10px;
+   border-left: 10px;
+   border-right: 10px;
+   border-top: 10px;
+   border-radius: 10px;
+   color: white;
+}
